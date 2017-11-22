@@ -16,7 +16,8 @@ The Chief Data Officer and Chief Data Scientist are an emerging roles in US Fede
 CFO Act Agencies                                |  Agency / Bureau                            |  Chief Data Officer             
 --------------                                  | --------------                              | --------------                  
 Department of Agriculture                       |                                             | Bobby Jones, Acting
-Department of Commerce                          |                                             | Ian Kalin
+Department of Commerce                          |                                             | 
+Department of Commerce                          | National Oceanic and Atmospheric Admin.     | Ed Kearns
 Department of Defense                           |                                             |
 Department of Education                         |                                             |
 Department of Energy                            |                                             | 
